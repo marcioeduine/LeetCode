@@ -3,7 +3,7 @@
 /*                                                        :::      ::::::::   */
 /*   _30_findsubstr.cpp                                 :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: mcaquart <marvin@42.fr>                    +#+  +:+       +#+        */
+/*   By: mcaquart <mcaquart@student.42luanda.com>   +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2026/01/27 18:07:34 by mcaquart          #+#    #+#             */
 /*   Updated: 2026/01/27 20:50:08 by mcaquart         ###   ########.fr       */
